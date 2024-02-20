@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Desktop\Anti-Format\Anti-Format\bin\Debug\Anti-Format.exe
+C:\Users\Lenovo\Desktop\Anti-Format\Anti-Format\bin\Debug\Anti-Format.pdb
+C:\Users\Lenovo\Desktop\Anti-Format\Anti-Format\obj\Debug\Anti-Format.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Anti-Format\Anti-Format\obj\Debug\Anti_Format.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Anti-Format\Anti-Format\obj\Debug\Anti-Format.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Anti-Format\Anti-Format\obj\Debug\Anti-Format.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Anti-Format\Anti-Format\obj\Debug\Anti-Format.exe
+C:\Users\Lenovo\Desktop\Anti-Format\Anti-Format\obj\Debug\Anti-Format.pdb
