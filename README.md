@@ -1,5 +1,5 @@
-## [DOWNLOAD](https://github.com/MasonGroup/Anti-Format/raw/main/Anti-Format/bin/Debug/Anti-Format.exe)
 ## **Main Method**
+## [DOWNLOAD](https://github.com/MasonGroup/Anti-Format/raw/main/Anti-Format/bin/Debug/Anti-Format.exe)
 Registers an event handler for the SessionEnding event. This event occurs when the user tries to end the current session, such as when attempting to shut down or restart the system.
 Creates a shortcut to the program in the Startup folder to ensure that it runs automatically when the system starts.
 Enters an infinite loop to continuously monitor and take action against the target process.
